@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 This is Abby(Rong) Xu. It's my pleasure to e-meet you!!!🤓
+
+- I'm a Computer Science student👩🏻‍💻 from Texas A&M University with Cybersecurity and Math minors.
+- You can reach me with email📫 : abby.xu915@gmail.com
+- Definitely check my personal website: abbyxr.com
+- Oops! Feel free to connect with me on LinkedIn!!! 👉🏻 [Rong(Abby) Xu](https://www.linkedin.com/in/abbyxu)
 
 <!--
 **Abby-xu/Abby-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,37 +18,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- [![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs,issues&count_private=true&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
+
 -->
 
-##### GitHub Stats
-
-<div align="center">
-    <a href="https://github.com/Abby-xu">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs&count_private=true" alt="Abby's github stats"/>
-    </a>
-    <a href="https://github.com/Abby-xu">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact&show_icons=true&include_all_commits=true&card_width=270" alt="Abby's github stats"/>
-    </a>
-</div>
-
-<br/>
+#### GitHub Stats
 
 <a href="https://github.com/Abby-xu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=prs&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact" />
 </a>
-
+<!-- &theme=buefy -->
 <br/>  
-# &theme=buefy
-<br/>
 
-<a href="https://github.com/GJXAIOU">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GJXAIOU&theme=buefy&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GJXAIOU&theme=buefy&layout=compact"/>
-</a>
-
-<br/>
 
 
