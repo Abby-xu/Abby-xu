@@ -16,19 +16,21 @@ Here are some ideas to get you started:
 -->
 
 ##### GitHub Stats
+[![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs,issues&count_private=true&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
 <br/>
 
 <a href="https://github.com/Abby-xu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs,issues&count_private=true&layout=compact" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact" />
 </a>
 
 <br/>
+#   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs,issues&count_private=true&layout=compact" />
 # &theme=buefy
 
 ##### GitHub Stats
 
-### [![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs,issues&count_private=true&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
+### 
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
 
