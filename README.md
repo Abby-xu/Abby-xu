@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/Abby-xu">
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs&count_private=true&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact" />
 </a>
 
 <br/>
-#   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs,issues&count_private=true&layout=compact" />
+#   
 # &theme=buefy
 
 ##### GitHub Stats
