@@ -28,13 +28,15 @@ Here are some ideas to get you started:
 
 ##### another version
 
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby-xu& hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github) -->
 
 <div align="center">
     <a href="https://github.com/littleTreeme">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=littleTreeme&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="tree's github stats"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="tree's github stats"/>
     </a>
     <a href="https://github.com/littleTreeme">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littleTreeme&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="tree's github stats"/>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="tree's github stats"/>
     </a>
 </div>
