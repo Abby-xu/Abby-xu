@@ -31,11 +31,19 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/Abby-xu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact" />
 </a>
 
 <br/>  
 # &theme=buefy
+<br/>
+
+<a href="https://github.com/GJXAIOU">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GJXAIOU&theme=buefy&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GJXAIOU&theme=buefy&layout=compact"/>
+</a>
+
+<br/>
 
 
