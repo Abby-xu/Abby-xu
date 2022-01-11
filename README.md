@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ##### another version
 
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby-xu& hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby-xu& 
+hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github) -->
 
