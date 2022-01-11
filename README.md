@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Abby(Rong) Xu. It's my pleasure to e-meet you!!!🤓
 
-- I'm a Computer Science student 👩🏻‍💻  from Texas A&M University with Cybersecurity and Math minors.
+- I'm a Computer Science student👩🏻‍💻  from Texas A&M University with Cybersecurity and Math minors.
 - You can reach me with email 📫  : abby.xu915@gmail.com
 - Definitely check my personal website: www.abbyxr.com
 - Oops! Feel free to connect with me on **LinkedIn**!!! 👉🏻  [Rong(Abby) Xu](https://www.linkedin.com/in/abbyxu)
