@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs,issues&count_private=true&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
 -->
 
 ##### GitHub Stats
-[![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs,issues&count_private=true&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
+
 <br/>
 
 <a href="https://github.com/Abby-xu">
@@ -24,13 +26,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact" />
 </a>
 
-<br/>
-#   
+<br/>  
 # &theme=buefy
 
-##### GitHub Stats
-
-### 
-
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
 
