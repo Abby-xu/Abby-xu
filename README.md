@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 [![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs,issues&count_private=true)](https://github.com/Abby-xu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html)](https://github.com/Abby-xu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact)](https://github.com/Abby-xu/github-readme-stats)
 
