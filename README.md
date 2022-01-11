@@ -24,7 +24,7 @@ Here are some ideas to get you started:
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abby-xu&show_icons=true&hide=stars,prs&count_private=true" alt="Abby's github stats"/>
     </a>
     <a href="https://github.com/Abby-xu">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact&show_icons=true&include_all_commits=true&card_width=230" alt="Abby's github stats"/>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abby-xu&hide=html&layout=compact&show_icons=true&include_all_commits=true" alt="Abby's github stats"/>
     </a>
 </div>
 
