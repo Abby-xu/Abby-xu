@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
-<!-- 
 #### GitHub States
 
 <a href="https://github.com/Abby-xu">
